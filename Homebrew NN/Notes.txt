@@ -1,0 +1,5 @@
+For the weights and bias:
+
+1:11050 Epoch 1.5 days 310 Error - 394/500
+2:10320 Epoch 1.2 days 320 Error - 410/500
+3:2690 Epoch 0.3 days 210 Error - 402/500
